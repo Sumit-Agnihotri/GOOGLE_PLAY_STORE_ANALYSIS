@@ -1,0 +1,3 @@
+Visualize the sentiment distribution (positive, neutral, negative) of user reviews using a stacked bar chart,
+segmented by rating groups (e.g., 1-2 stars, 3-4 stars, 4-5 stars).
+Include only apps with more than 1,000 reviews and group by the top 5 categories.

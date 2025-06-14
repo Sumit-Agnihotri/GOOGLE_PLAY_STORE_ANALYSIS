@@ -1,0 +1,3 @@
+Use a grouped bar chart to compare the average rating and total review count for the top 10 app categories by number of installs. 
+Filter out any categories where the average rating is below 4.0 and size below 10 M and last update should be Jan month .
+This graph should work only between 3PM IST to 5 PM IST apart from that time we should not show this graph in dashboard itself.
