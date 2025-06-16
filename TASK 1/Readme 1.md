@@ -85,5 +85,5 @@ The final chart is an **interactive stacked bar chart**:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/gplay-store-task1.git
+   git clone https://github.com/Sumit-Agnihotri/gplay-store-task1.git
    cd gplay-store-task1
