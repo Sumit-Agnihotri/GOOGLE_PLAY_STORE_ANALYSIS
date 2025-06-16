@@ -133,7 +133,7 @@ Each task demonstrated professional skills in:
 
 **Sumit Agnihotri**  
 Data Science Student | Python & Visualization Enthusiast  
-[GitHub](https://github.com/Sumit-Agnihotri) | [LinkedIn](https://linkedin.com/sumit-agnihotri)
+[GitHub](https://github.com/Sumit-Agnihotri) | [LinkedIn](https://www.linkedin.com/in/sumit-agnihotri/)
 
 ---
 
